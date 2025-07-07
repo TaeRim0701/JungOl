@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class Factorial {
     public static Long factorial(int n) {
         if (n == 1) {
             System.out.printf("%d! = %d\n", n, n);
